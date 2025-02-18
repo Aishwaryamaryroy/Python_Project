@@ -6,7 +6,7 @@ This project involves analyzing employee data for ABC Company using Python. The 
 ## Preprocessing Steps
 1. **Handling Missing Data**: The 'College' and 'Salary' columns contained missing values. The missing 'College' values were replaced with "Unknown" and the missing 'Salary' values were replaced with median salary values.
 2. **Correcting 'Height' Column**: The 'Height' column had incorrect values that were replaced with random values between 150 and 180 to maintain consistency.
-3. **Data Type Correction**: Several columns (e.g., 'Age', 'Salary') were cast into appropriate data types to ensure accuracy for analysis.
+3. **Data Type Correction**: Several columns  were cast into appropriate data types to ensure accuracy for analysis.
 
 ## Analysis Tasks
 1. **Employee Distribution by Team**: We analyzed how employees are distributed across different teams and calculated the percentage split.
